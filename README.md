@@ -1,6 +1,6 @@
-# Formação Power BI - Alura(https://cursos.alura.com.br/formacao-power-bi)
+# [Formação Power BI - Alura](https://cursos.alura.com.br/formacao-power-bi)
 
-# Curso_Alura_Power_BI_Desktop_construindo_meu_primeiro_dashboard(https://cursos.alura.com.br/course/power-bi-desktop-construindo-primeiro-dashboard)
+# [Curso Alura Power BI Desktop construindo meu primeiro dashboard](https://cursos.alura.com.br/course/power-bi-desktop-construindo-primeiro-dashboard)
 
 O principal motivo deste repositório é compartilhar o projeto que fiz no curso da Alura - Power BI Desktop: Construindo meu primeiro dashboard.
 
